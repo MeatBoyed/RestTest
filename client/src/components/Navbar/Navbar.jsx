@@ -25,19 +25,16 @@ const Navbar = () => {
           <a href="#menu">Menu</a>
         </li>
         <li className="p__opensans">
-          <a href="#awards">Awards</a>
-        </li>
-        <li className="p__opensans">
           <a href="#contact">contact</a>
         </li>
       </ul>
 
       <div className="app__navbar-login">
         <a href="#login" className="p__opensans">
-          Login / Registration
+          Register for Newsletter
         </a>
         <div />
-        <a href="/" className="p__opensans">
+        <a href="#contact" className="p__opensans">
           Book Table
         </a>
       </div>
